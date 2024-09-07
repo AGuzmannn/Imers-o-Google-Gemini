@@ -41,4 +41,4 @@ Gostou da Livraria Moderna? Quer ajudar a melhorar? Sinta-se à vontade para con
 
 **#livrariamoderna #desenvolvimentoweb #html #css #javascript #leitura #livros**
 
-**[Alexandre Guzmán Siácara]**
+**Alexandre Guzmán Siácara**
